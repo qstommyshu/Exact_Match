@@ -4,7 +4,7 @@ This is an mini python program that compare if two CSV files regardless the orde
 ---
 ### Requirements:
 
-Make sure you have **python3** installed, and have **PySimpleGUI**, **pandas**.
+Make sure you have **python3** installed, and have **PySimpleGUI**, **pandas** libraries.
  
  ---
 ### Usage:
